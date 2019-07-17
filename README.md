@@ -1,2 +1,3 @@
 # SleepToggle
-Applescript for sleep toggle
+Applescript for sleep toggle  
+Requires permission on first run
